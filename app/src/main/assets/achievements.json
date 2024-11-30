@@ -1,0 +1,14 @@
+[
+    { "id": 1, "name": "Fatality (+2)" },
+    { "id": 2, "name": "Frontline Commander (+2)" },
+    { "id": 3, "name": "Get Creative (+2)" },
+    { "id": 4, "name": "Sorin Can't Stop This (+1)" },
+    { "id": 5, "name": "Not Enough Minerals (+1)" },
+    { "id": 6, "name": "First Blood (+1)" },
+    { "id": 7, "name": "He's Dead, Jim (+1)" },
+    { "id": 8, "name": "Hardcore Mode (+1)" },
+    { "id": 9, "name": "Godzilla! (+1)"},
+    { "id": 10, "name": "Drop the Hammer (+1)"},
+    { "id": 11, "name": "Voltron (+1)"},
+    { "id": 12, "name": "Full House (+3)"}
+]
